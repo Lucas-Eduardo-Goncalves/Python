@@ -1,5 +1,6 @@
 n1 = int(input("Escreva um numero: "))
 
+print("-"*22)
 print("{} * 1 = {}".format(n1, n1 * 1))
 print("{} * 2 = {}".format(n1, n1 * 2))
 print("{} * 3 = {}".format(n1, n1 * 3))
@@ -10,3 +11,4 @@ print("{} * 7 = {}".format(n1, n1 * 7))
 print("{} * 8 = {}".format(n1, n1 * 8))
 print("{} * 9 = {}".format(n1, n1 * 9))
 print("{} * 10 = {}".format(n1, n1 * 10))
+print("-"*22)
